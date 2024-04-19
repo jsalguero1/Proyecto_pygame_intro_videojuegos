@@ -1,0 +1,27 @@
+{
+    "TypeA": {
+        "image":"assets/img/asteroid_01.png",
+        "velocity_min": 25,
+        "velocity_max": 50
+    },
+    "TypeB": {
+        "image":"assets/img/asteroid_02.png",
+        "color": {
+            "r": 255,
+            "g": 100,
+            "b": 255
+        },
+        "velocity_min": 50,
+        "velocity_max": 75
+    },
+    "TypeC": {
+        "image":"assets/img/asteroid_03.png",
+        "velocity_min": 75,
+        "velocity_max": 100
+    },
+    "TypeD": {
+        "image":"assets/img/asteroid_04.png",
+        "velocity_min": 100,
+        "velocity_max": 125
+    }
+}
